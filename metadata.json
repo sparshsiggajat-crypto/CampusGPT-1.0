@@ -1,0 +1,6 @@
+{
+  "name": "CampusGPT - AI Student Copilot",
+  "description": "An AI-powered academic and administrative student companion with automated alerts, policy RAG navigator, and comprehensive admin controls.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
